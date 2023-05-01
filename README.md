@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+hosted on vercel https://todo-app-kappa-five-47.vercel.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
